@@ -40,7 +40,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'termtosvg=termtosvg.__main__:main'
+            'term2svg=termtosvg.__main__:main'
         ]
     },
     install_requires=[
